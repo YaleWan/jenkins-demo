@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-03-25 16:40:20
- * @LastEditTime: 2020-03-26 13:48:03
+ * @LastEditTime: 2020-03-26 13:49:30
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: /jenkins-demo/src/components/HelloWorld.vue
@@ -10,7 +10,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      111For a guide and recipes on how to configure / 1222 this project11111,<br>
+      111For a guide and recipes 1232 this project11111,<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
