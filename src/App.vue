@@ -1,17 +1,17 @@
 
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <div>hello world </div>
-    <div>王亚晖真棒 </div>
+    <img alt="Vue logo" src="./assets/logo.png" />
+    <div>hello world</div>
+    <div>王亚晖真棒</div>
+    <div>ceshi</div>
   </div>
 </template>
 
 <script>
-
 export default {
-  name: 'App'
-}
+  name: "App"
+};
 </script>
 
 <style>
