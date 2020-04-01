@@ -3,7 +3,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png" />
     <div>hello world</div>
-    <div>小常牛逼</div>
+    <div>小常牛逼1</div>
     <div>ceshi</div>
   </div>
 </template>
